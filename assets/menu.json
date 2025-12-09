@@ -13,7 +13,7 @@
     "category": "قهوة",
     "price": 3500,
     "description": "دبل شوت",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/1765284250646-IMG_2871.jpeg.jpg"
   },
   {
     "id": 2003,
@@ -117,7 +117,7 @@
     "category": "لاتيه",
     "price": 4500,
     "description": "",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/1765319994874-IMG_2928.jpeg.jpg"
   },
   {
     "id": 2025,
@@ -439,7 +439,7 @@
     "category": "ايس كوفي",
     "price": 5000,
     "description": "",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/1765319869076-IMG_2927.jpeg.jpg"
   },
   {
     "id": 2103,
@@ -447,7 +447,7 @@
     "category": "ايس كوفي",
     "price": 5000,
     "description": "",
-    "imageUrl": ""
+    "imageUrl": "/assets/images/1765319860372-IMG_2928.jpeg.jpg"
   },
   {
     "id": 2104,
@@ -520,30 +520,6 @@
     "price": 5000,
     "description": "",
     "imageUrl": "/assets/images/1765124044079-IMG_2662.jpeg.jpg"
-  },
-  {
-    "id": 2120,
-    "name": "ماتشا حار",
-    "category": "ماتشا",
-    "price": 5000,
-    "description": "",
-    "imageUrl": ""
-  },
-  {
-    "id": 2121,
-    "name": "فانيلا",
-    "category": "ماتشا",
-    "price": 5000,
-    "description": "",
-    "imageUrl": ""
-  },
-  {
-    "id": 2122,
-    "name": "كراميل",
-    "category": "ماتشا",
-    "price": 5000,
-    "description": "",
-    "imageUrl": ""
   },
   {
     "id": 2130,
